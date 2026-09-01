@@ -7,7 +7,7 @@
 &#x1D404;&#x1D431;&#x1D42D;&#x1D42B;&#x1D41A;&#x1D41C;&#x1D42D;&#x1D41E;&#x1D41D; 
 &#x1D408;&#x1D426;&#x1D41A;&#x1D420;&#x1D41E;&#x1D42C; -->
 
-<img src="images/ship.png" align="left" width="20%" alt="ship">
+<img src="images/ship.png" align="left" width="20%" alt="ship"> 
 
 <!--
 Is it Friday already? You're out on your sailing ship when the 5150 roars to life.
