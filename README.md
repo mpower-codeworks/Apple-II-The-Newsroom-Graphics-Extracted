@@ -171,8 +171,13 @@ thing to do.
 &#x1D422;&#x1D42D; &#x1D422;&#x1D42C; &#x1D42D;&#x1D421;&#x1D41E; &#x1D42B;&#x1D422;&#x1D420;&#x1D421;&#x1D42D;<br>
 &#x1D42D;&#x1D421;&#x1D422;&#x1D427;&#x1D420; &#x1D42D;&#x1D428; &#x1D41D;&#x1D428;.
 
-## What's Included
+## &#x1D4B2;&#x1D4BD;&#x1D4B6;&#x1D4C9;'&#x1D4C8; &#x2110;&#x1D4C3;&#x1D4B8;&#x1D4C1;&#x1D4CA;&#x1D4B9;&#x212F;&#x1D4B9;
 
+<!--
+There are 595 bitmap pages, and each has from one to five individual images within - giving
+us something like 1800 "photos".. You can easily work on them in any graphics program and 
+use them in your modern stuff! 
+-->
 &#x1D4AF;&#x1D4BD;&#x212F;&#x1D4C7;&#x212F; &#x1D4B6;&#x1D4C7;&#x212F; 595 &#x1D4B7;&#x1D4BE;&#x1D4C9;&#x1D4C2;&#x1D4B6;&#x1D4C5; &#x1D4C5;&#x1D4B6;&#x210A;&#x212F;&#x1D4C8;, &#x1D4B6;&#x1D4C3;&#x1D4B9; &#x212F;&#x1D4B6;&#x1D4B8;&#x1D4BD; &#x1D4BD;&#x1D4B6;&#x1D4C8; &#x1D4BB;&#x1D4C7;&#x2134;&#x1D4C2; &#x2134;&#x1D4C3;&#x212F; &#x1D4C9;&#x2134; &#x1D4BB;&#x1D4BE;&#x1D4CB;&#x212F; &#x1D4BE;&#x1D4C3;&#x1D4B9;&#x1D4BE;&#x1D4CB;&#x1D4BE;&#x1D4B9;&#x1D4CA;&#x1D4B6;&#x1D4C1; &#x1D4BE;&#x1D4C2;&#x1D4B6;&#x210A;&#x212F;&#x1D4C8; &#x1D4CC;&#x1D4BE;&#x1D4C9;&#x1D4BD;&#x1D4BE;&#x1D4C3; - &#x210A;&#x1D4BE;&#x1D4CB;&#x1D4BE;&#x1D4C3;&#x210A; &#x1D4CA;&#x1D4C8; &#x1D4C8;&#x2134;&#x1D4C2;&#x212F;&#x1D4C9;&#x1D4BD;&#x1D4BE;&#x1D4C3;&#x210A; &#x1D4C1;&#x1D4BE;&#x1D4C0;&#x212F; 1800 "&#x1D4C5;&#x1D4BD;&#x2134;&#x1D4C9;&#x2134;&#x1D4C8;".. &#x1D4B4;&#x2134;&#x1D4CA; &#x1D4B8;&#x1D4B6;&#x1D4C3; &#x212F;&#x1D4B6;&#x1D4C8;&#x1D4BE;&#x1D4C1;&#x1D4CE; &#x1D4CC;&#x2134;&#x1D4C7;&#x1D4C0; &#x2134;&#x1D4C3; &#x1D4C9;&#x1D4BD;&#x212F;&#x1D4C2; &#x1D4BE;&#x1D4C3; &#x1D4B6;&#x1D4C3;&#x1D4CE; &#x210A;&#x1D4C7;&#x1D4B6;&#x1D4C5;&#x1D4BD;&#x1D4BE;&#x1D4B8;&#x1D4C8; &#x1D4C5;&#x1D4C7;&#x2134;&#x210A;&#x1D4C7;&#x1D4B6;&#x1D4C2; &#x1D4B6;&#x1D4C3;&#x1D4B9; &#x1D4CA;&#x1D4C8;&#x212F; &#x1D4C9;&#x1D4BD;&#x212F;&#x1D4C2; &#x1D4BE;&#x1D4C3; &#x1D4CE;&#x2134;&#x1D4CA;&#x1D4C7; &#x1D4C2;&#x2134;&#x1D4B9;&#x212F;&#x1D4C7;&#x1D4C3; &#x1D4C8;&#x1D4C9;&#x1D4CA;&#x1D4BB;&#x1D4BB;! 
 
 <br clear="all">
