@@ -1,6 +1,14 @@
 ## &#x1D538;&#x1D561;&#x1D561;&#x1D55D;&#x1D556; &#x1D540;&#x1D540; &#x1D54B;&#x1D559;&#x1D556; &#x2115;&#x1D556;&#x1D568;&#x1D564;&#x1D563;&#x1D560;&#x1D560;&#x1D55E; &#x1D53E;&#x1D563;&#x1D552;&#x1D561;&#x1D559;&#x1D55A;&#x1D554;&#x1D564; &#x1D53C;&#x1D569;&#x1D565;&#x1D563;&#x1D552;&#x1D554;&#x1D565;&#x1D556;&#x1D555;
 
-<img src="images/ship.png" align="left" width="20%" alt="ship"> 
+<!--<img src="images/ship.png" align="left" width="20%" alt="ship">-->
+<img src="images/shiplight.png#gh-light-mode-only"
+     align="left"
+     width="20%"
+     alt="ship">
+<img src="images/ship.png#gh-dark-mode-only"
+     align="left"
+     width="20%"
+     alt="ship">
 
 &#x1D408;&#x1D42C; &#x1D422;&#x1D42D; &#x1D405;&#x1D42B;&#x1D422;&#x1D41D;&#x1D41A;&#x1D432; 
 &#x1D41A;&#x1D425;&#x1D42B;&#x1D41E;&#x1D41A;&#x1D41D;&#x1D432;? &#x1D418;&#x1D428;&#x1D42E;'&#x1D42B;&#x1D41E; 
@@ -18,7 +26,14 @@
 &#x1D432;&#x1D428;&#x1D42E;&#x1D42B; 
 &#x1D426;&#x1D41E;&#x1D42C;&#x1D42C;&#x1D41A;&#x1D420;&#x1D41E;&#x1D42C;.
 
-<img src="images/5150.png" align="right" width="15%" alt="5150">
+<img src="images/5150light.png#gh-light-mode-only"
+    align="right"
+    width="15%"
+    alt="5150">
+<img src="images/5150.png#gh-dark-mode-only"
+    align="right"
+    width="15%"
+    alt="5150">
 
 &#x1D40F;&#x1D421;&#x1D428;&#x1D42D;&#x1D428; &#x1D403;&#x1D41E;&#x1D41A;&#x1D41D;&#x1D425;&#x1D422;&#x1D427;&#x1D41E;? 
 *&#x1D413;&#x1D428;&#x1D41D;&#x1D41A;&#x1D432;?* &#x1D413;&#x1D421;&#x1D41E; &#x1D428;&#x1D427;&#x1D425;&#x1D432; 
@@ -33,7 +48,14 @@
 &#x1D42D;&#x1D421;&#x1D41E; &#x1D413;&#x1D41E;&#x1D431; &#x1D425;&#x1D428;&#x1D42F;&#x1D41E;&#x1D41D; 
 &#x1D422;&#x1D42D;, &#x1D42D;&#x1D421;&#x1D428;&#x1D42E;&#x1D420;&#x1D421;). 
 
-<img src="images/jenkins.png" align="left" width="10%" alt="jenkins">
+<img src="images/jenkinslight.png#gh-light-mode-only"
+    align="left" 
+    width="10%" 
+    alt="jenkins">
+<img src="images/jenkins.png#gh-dark-mode-only"
+    align="left" 
+    width="10%" 
+    alt="jenkins">
 
 `"Whatever shall I do?"`
 
@@ -54,7 +76,14 @@
 &#x1D418;&#x1D428;&#x1D42E; &#x1D427;&#x1D41E;&#x1D41E;&#x1D41D; &#x1D42D;&#x1D421;&#x1D41E; 
 &#x1D400;&#x1D429;&#x1D429;&#x1D425;&#x1D41E; &#x1D408;&#x1D408;.
 
-<img src="images/apple2.png" align="right" width="15%" alt="apple2">
+<img src="images/apple2light.png#gh-light-mode-only"
+    align="right"
+    width="15%"
+    alt="apple2">
+<img src="images/apple2.png#gh-dark-mode-only"
+    align="right"
+    width="15%"
+    alt="apple2">
 
 &#x1D409;&#x1D42E;&#x1D42C;&#x1D42D; &#x1D425;&#x1D428;&#x1D428;&#x1D424;&#x1D422;&#x1D427;&#x1D420; 
 &#x1D41A;&#x1D42D; &#x1D42D;&#x1D421;&#x1D41E; &#x1D400;&#x1D429;&#x1D429;&#x1D425;&#x1D41E; 
@@ -71,7 +100,14 @@
 &#x1D41F;&#x1D425;&#x1D428;&#x1D429;&#x1D429;&#x1D432; &#x1D430;&#x1D428;&#x1D427;'&#x1D42D; 
 &#x1D41B;&#x1D428;&#x1D428;&#x1D42D;!
 
-<img src="images/basic.png" align="left" width="30%" alt="basic">
+<img src="images/basic5150.png#gh-light-mode-only"
+    align="left"
+    width="30%"
+    alt="basic">
+<img src="images/basic.png#gh-dark-mode-only"
+    align="left"
+    width="30%"
+    alt="basic">
 
 `"Looks like we're gonna have to do this the hard way! I must admit,
 I do wish I had keys on my keyboard however!"`
@@ -100,7 +136,14 @@ I do wish I had keys on my keyboard however!"`
 80 END
 ```
 
-<img src="images/cooked.png" align="right" width="20%" alt="cooked">
+<img src="images/cookedlight.png#gh-light-mode-only"
+    align="right"
+    width="20%"
+    alt="cooked">
+<img src="images/cooked.png#gh-dark-mode-only"
+    align="right"
+    width="20%"
+    alt="cooked">
 
 &#x1D408;&#x1D42D; &#x1D41D;&#x1D428;&#x1D41E;&#x1D42C;&#x1D427;'&#x1D42D; &#x1D430;&#x1D428;&#x1D42B;&#x1D424;! 
 &#x1D413;&#x1D421;&#x1D41E;&#x1D42B;&#x1D41E; &#x1D426;&#x1D42E;&#x1D42C;&#x1D42D; &#x1D41B;&#x1D41E; &#x1D42C;&#x1D428;&#x1D426;&#x1D41E;&#x1D42D;&#x1D421;&#x1D422;&#x1D427;&#x1D420; &#x1D430;&#x1D42B;&#x1D428;&#x1D427;&#x1D420; 
