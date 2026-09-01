@@ -132,6 +132,6 @@ I do wish I had keys on my keyboard however!"`
 
 &#x1D67E;&#x1D691;, &#x1D692;&#x1D68F; &#x1D6A2;&#x1D698;&#x1D69E;'&#x1D69B;&#x1D68E; &#x1D6A0;&#x1D698;&#x1D697;&#x1D68D;&#x1D68E;&#x1D69B;&#x1D692;&#x1D697;&#x1D690; &#x1D691;&#x1D698;&#x1D6A0; &#x1D678;'&#x1D696; &#x1D690;&#x1D68E;&#x1D69D;&#x1D69D;&#x1D692;&#x1D697;&#x1D690; &#x1D68A;&#x1D695;&#x1D695; &#x1D69D;&#x1D691;&#x1D68E;&#x1D69C;&#x1D68E; &#x1D68F;&#x1D698;&#x1D697;&#x1D69D;&#x1D69C; &#x1D698;&#x1D697;&#x1D69D;&#x1D698; &#x1D68A; &#x1D676;&#x1D692;&#x1D69D;&#x1D677;&#x1D69E;&#x1D68B; &#x1D699;&#x1D68A;&#x1D690;&#x1D68E;, &#x1D692;&#x1D69D;'&#x1D69C; &#x1D69B;&#x1D68E;&#x1D68A;&#x1D695;&#x1D695;&#x1D6A2; &#x1D68E;&#x1D68A;&#x1D69C;&#x1D6A2; &#x1D698;&#x1D697;&#x1D68C;&#x1D68E; &#x1D6A2;&#x1D698;&#x1D69E; &#x1D691;&#x1D68A;&#x1D69F;&#x1D68E;
 
-<img src="images/bye.png" align="center" width="60%" alt="bye">
+<img src="images/bye.png" align="center" width="40%" alt="bye">
 
 <br clear="all">
